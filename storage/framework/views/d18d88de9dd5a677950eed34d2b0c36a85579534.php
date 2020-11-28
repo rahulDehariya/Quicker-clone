@@ -1,0 +1,2 @@
+
+<td><?php echo e(\Illuminate\Support\Str::limit(strip_tags($entry->{$column['name']}), 80, "[...]")); ?></td><?php /**PATH /home/developer/public_html/resources/views/vendor/admin/panel/columns/text.blade.php ENDPATH**/ ?>
